@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ELIJAH KUNGU</h1>
-<h3 align="center">A passionate software Engineer and Full Stackdeveloper from Kenya</h3>
+<h3 align="center">A passionate software Engineer and Full Stackdeveloper</h3>
 
 
 
