@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ELIJAH KUNGU</h1>
+<h1 align="center">Hi 👋, I'm ELIJAH </h1>
 <!-- <h3 align="center">A passionate Software developer from Kenya</h3> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahkungu" alt="elijahkungu" /></a> </p>
