@@ -69,8 +69,9 @@ ELIJAHKUNGU@github:~ $ whoami
 
 <table>
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elijahkungu&show_icons=true&locale=en&layout=compact" alt="elijahkungu" /></td>
+    <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=elijahkungu&show_icons=true&locale=en" alt="elijahkungu" /></td>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELIJAHKUNGU&langs_count=10&layout=compact"/></td>
+    <td><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=elijahkungu&" alt="elijahkungu" /><td/>
   </tr>
 </table>
 
