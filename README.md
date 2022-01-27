@@ -1,50 +1,26 @@
-<!-- <h1 align="center">Hi 👋, I'm ELIJAH </h1>
-<!-- <h3 align="center">A passionate Software developer from Kenya</h3> -->
+<h1 align="center">Hi 👋, I'm ELIJAH </h1>
+<h3 align="center">A passionate Software developer from Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahkungu" alt="elijahkungu" /></a> </p>
 
-- 🔭 I’m currently working on [flutter Application](https://github.com/The-HydroSafers/FlutterAplication)
-- 👯 I’m looking to collaborate on [Call for Code](https://github.com/The-HydroSafers/FlutterAplication)
-- 👨‍💻 All of my projects are available at [https://elijahkungu.github.io/Profile/](https://elijahkungu.github.io/Profile/)
-- 💬 Ask me about **idea to system**
-- 📫 How to reach me **elijahkungu100@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/elijahkungu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/elijahkungu" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/elijah-kungu-3888a218a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elijah-kungu-3888a218a/" height="30" width="40" /></a><a href="https://medium.com/@elijahkungu100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elijahkungu100" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-
- -->
- 
- 
- 
- #### In a world full of Software, the best way to lead is through Code.
-###### Hey! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WilliamOtieno&label=Profile%20views&color=0e75b6&style=flat" alt="WilliamOtieno" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ELIJAHKUNGU&label=Profile%20views&color=0e75b6&style=flat" alt="ELIJAHKUNGU" /> </p>
 
 ```cli
-williamotieno@github:~ $ whoami
+ELIJAHKUNGU@github:~ $ whoami
 
   • 😎 Backend developer
   • 😃 Software Craftsman
   • 😆 Linux/FreeLibreOpenSourceSoftware Enthusiast
 ```
-<a href="https://twitter.com/William__Otieno">
-  <img align="left" alt="William's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/ELIJAHKUNGU">
+  <img align="left" alt="ELIJAH'S Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/williamotieno">
+<a href="https://linkedin.com/in/ELIJAHKUNGU">
   <img align="left" alt="Williams's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/WilliamOtieno">
+<a href="https://github.com/ELIJAHKUNGU">
   <img align="left" alt="William's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/WilliamOtieno">
+<a href="https://t.me/ELIJAHKUNGU">
   <img align="left" alt="William's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
@@ -77,30 +53,30 @@ williamotieno@github:~ $ whoami
     <a href="https://wakatime.com/@031f0010-ed93-450d-86db-77e0f90e1bae"><img src="https://wakatime.com/badge/user/031f0010-ed93-450d-86db-77e0f90e1bae.svg" alt="Total time coded since Jul 30 2021" /></a>
   </tr>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamotieno&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamOtieno&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=ELIJAHKUNGU&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ELIJAHKUNGU&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
   
   </tr>   
 </table>
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/WilliamOtieno/github-stats/master/generated/overview.svg" /></td>
+    <td><img src="https://raw.githubusercontent.com/ELIJAHKUNGU/github-stats/master/generated/overview.svg" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamotieno&layout=compact&show_icnos=true"/></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamotieno&langs_count=10&layout=compact"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ELIJAHKUNGU&layout=compact&show_icnos=true"/></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELIJAHKUNGU&langs_count=10&layout=compact"/></td>
   </tr>
 </table>
 
 ### Get in touch
 <p>
-  <a href="https://twitter.com/William__Otieno"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/williamotieno"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.github.com/WilliamOtieno"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
+  <a href="https://twitter.com/ELIJAHKUNGU"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/ELIJAHKUNGU"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.github.com/ELIJAHKUNGU"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   <a href="https://stackoverflow.com/users/14775881/william-otieno"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
   <a href="https://askubuntu.com/users/1172607/william-otieno"><img width="50px" src="https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955" alt="askubuntu"/></a>
 </p>
