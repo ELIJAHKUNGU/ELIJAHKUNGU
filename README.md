@@ -6,10 +6,9 @@
 
 ```cli
 ELIJAHKUNGU@github:~ $ whoami
-
-  • 😎 Backend developer
-  • 😃 Software Craftsman
-  • 😆 Linux/FreeLibreOpenSourceSoftware Enthusiast
+  •😆  Fronted Developer
+  •😎 Backend developer
+  •😆 Linux/FreeLibreOpenSourceSoftware Enthusiast
 ```
 <a href="https://twitter.com/ELIJAHKUNGU">
   <img align="left" alt="ELIJAH'S Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -61,11 +60,7 @@ ELIJAHKUNGU@github:~ $ whoami
   </tr>   
 </table> -->
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/ELIJAHKUNGU/github-stats/master/generated/overview.svg" /></td>
-  </tr>
-</table>
+
 
 <table>
   <tr>
